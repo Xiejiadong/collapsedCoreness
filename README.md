@@ -5,8 +5,11 @@ The code is for the Collapsed Coreness Problem, collapsedCoreness "Discovering K
 ## Files
 
 main.cc - source code for the paper
+
 heap.cc / heap.h / defs.h / core.h / glist.cc / glist.h / treap.cc / treap.h - from the paper "A fast order-based approach for core maintenance. In: ICDE, pp. 337–348 (2017). DOI 10.1109/ICDE.2017.93"
-data.txt - toy friendship data with 4039 vertices and 88234 edges - 
+
+data.txt - toy friendship data with 4039 vertices and 88234 edges
+
 Makefile - compile commands
 
 ## compile and run
