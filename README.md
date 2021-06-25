@@ -19,6 +19,6 @@ the program ouputs in data-budge-GCC.txt
 
 ## note
 
-If you have any question, please contact me by xiejiadong0326@gmail.com.
+If you have any question, please contact me by xiejiadong0623@gmail.com.
 
 If you used this code, please kindly cite the paper.
