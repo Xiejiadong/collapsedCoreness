@@ -1,6 +1,6 @@
 ## collapsedCoreness
 
-The code is for the Collapsed Coreness Problem, collapsedCoreness "Discovering Key Users for Defending Network Structural Stability", Fan Zhang · Jiadong Xie · Kai Wang · Shiyu Yang · Yu Jiang, WWWJ 2021.
+The code is for the Collapsed Coreness Problem, published in the paper "Discovering Key Users for Defending Network Structural Stability", Fan Zhang · Jiadong Xie · Kai Wang · Shiyu Yang · Yu Jiang, WWWJ 2021.
 
 ## Files
 
